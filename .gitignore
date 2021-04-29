@@ -1,3 +1,5 @@
+*.vscode/*
+*Zone*Identifier
 # Prerequisites
 *.d
 
